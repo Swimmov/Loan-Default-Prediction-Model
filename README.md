@@ -78,6 +78,8 @@ Name: pandas
 Version: 2.2.3
 Name: numpy
 Version: 1.26.4
+Name: tensorflow
+Version: 2.19.0
 Name: joblib
 Version: 1.5.1
 ```
